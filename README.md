@@ -1,4 +1,4 @@
-# <Horiseon-Marketing-Optimization>
+# Horiseon-Marketing-Optimization
 
 ## Description
 
