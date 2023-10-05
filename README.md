@@ -14,7 +14,7 @@ N/A
 
 Open up the DevTools with Command + Option + I to see the semantic HTML elements and alt descriptions for all images. 
 
-![Screenshot of DevTools on Website](assets/imageshoriseon-devtool-screenshot.png)
+![Screenshot of DevTools on Website](assets/images/horiseon-devtool-screenshot.png)
 
 ## Credits
 
