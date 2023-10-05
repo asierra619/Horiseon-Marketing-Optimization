@@ -18,7 +18,8 @@ Open up the DevTools with Command + Option + I to see the semantic HTML elements
 
 ## Credits
 
-N/A
+Source Code taken from EdX Bootcamps and UCSD Extended Studies - index.html, style.css, and the images on the website are not my own work.
+Thank you!
 
 ## License
 
