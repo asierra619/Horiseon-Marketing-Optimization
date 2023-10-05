@@ -14,8 +14,7 @@ N/A
 
 Open up the DevTools with Command + Option + I to see the semantic HTML elements and alt descriptions for all images. 
 
-![](Horiseon-Marketing-Optimization/bootcamp/Horiseon-Marketing-Optimization
-/horiseon-devtool-screenshot.png/)
+![Screenshot of DevTools on Website](assets/horiseon-devtool-screenshot.png)
 
 ## Credits
 
